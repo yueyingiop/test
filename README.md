@@ -4,5 +4,5 @@
    }
 </style>
 <body>
-    <div class="container">0</div>
+    <div class="container"style="background-color: red;">0</div>
 </body>
