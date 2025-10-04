@@ -5,19 +5,21 @@
             <li>text</li>
         </ul>
         <!-- Other embed HTML element/text into SVG -->
+
+        <style>
+           .container {
+              background-color: red;
+           }
+        </style>
+        <body>
+            <div class="container" onclick="add(this)">0</div>
+        </body>
+        <script>
+            function add(el) {
+                el.innerHTML = parseInt(el.innerHTML) + 1
+            }
+        </script>
     </div>
-    <style>
-       .container {
-          background-color: red;
-       }
-    </style>
-    <body>
-        <div class="container" onclick="add(this)">0</div>
-    </body>
-    <script>
-        function add(el) {
-            el.innerHTML = parseInt(el.innerHTML) + 1
-        }
-    </script>
+    
 </foreignObject>
 </svg>
