@@ -1,8 +1,3 @@
-<style>
-   .container {
-      background-color: red;
-   }
-</style>
 <body>
-    <div class="container"style="background-color: red;">0</div>
+    <div class="container"style="background-color: red; width:100px; height:100px">0</div>
 </body>
