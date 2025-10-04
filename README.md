@@ -99,3 +99,5 @@
 
 <hr style="background-color: blue;"/>
 
+![](./test.svg)
+
