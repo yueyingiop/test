@@ -99,5 +99,19 @@
 
 <hr style="background-color: blue;"/>
 
-![](./test.svg)
+<details>
+ <summary>点击这里。 </summary>
+ 
+  ### 在这里添加消息
+
+  你可以在折叠节中添加文本。
+
+  你也可以添加图片或代码块。
+
+  ```ruby
+    puts "Hello World"
+  ```
+ 
+</details> 作者：晓风晓浪 https://www.bilibili.com/read/cv33780804/?opus_fallback=1 出处：bilibili
+
 
